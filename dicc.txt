@@ -11544,3 +11544,5 @@ well-known.zip
 wp-admin/c99.php
 wssgs/
 wssgs/happyaxis.jsp
+.well-known/oauth-authorization-server 
+.well-known/openid-configuration

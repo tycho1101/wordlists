@@ -139,3 +139,4 @@
 /api/v1/api-docs
 /api/v2/api-docs
 /api/v3/api-docs
+/classicapi/doc/

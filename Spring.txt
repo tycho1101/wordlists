@@ -107,6 +107,9 @@
 /hystrix.stream
 /jolokia/list
 /monitor
+/nacos
+/nacos/index.html
+/nacos/v1/auth/users?pageNo=1&pageSize=100
 /swagger/swagger-ui.html
 /system/druid/index.html
 /v1.1/swagger-ui.html

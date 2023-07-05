@@ -9293,3 +9293,5 @@ yql
 query
 v1/public/yql
 v1/public/yql?q=show%20tables&diagnostics=true
+dwr
+dwr/index.html

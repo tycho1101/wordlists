@@ -862,6 +862,8 @@ bgiframe
 bgimg
 bgmusic
 bht
+bi
+bin/hostname
 bianmin
 bianqian
 biaojikuaidi
